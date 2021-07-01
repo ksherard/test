@@ -1,0 +1,7 @@
+result: FirstFile
+hodor1 SecondFile
+hodor2First content: FirstFile
+hodor1. Second content: SecondFile
+hodor2First content: FirstFile
+hodor1. Second content: SecondFile
+hodor2
